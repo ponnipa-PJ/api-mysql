@@ -1,13 +1,13 @@
 ## api-mysql
 
-#GET
+###GET
 getall -> localhost/read.php
 getone -> localhost/single_read.php
 
-#POST
+###POST
 insert -> localhost/create.php
 update -> localhost/update.php
 
-#Delete
+###Delete
 delete -> localhost/delete.php
 
